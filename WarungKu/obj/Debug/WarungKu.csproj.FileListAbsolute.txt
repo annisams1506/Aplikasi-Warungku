@@ -1,0 +1,87 @@
+C:\Users\PC Lab 27 - 15\Documents\Laksono - Visual Studio\WarungKu\WarungKu\bin\Debug\WarungKu.exe.config
+C:\Users\PC Lab 27 - 15\Documents\Laksono - Visual Studio\WarungKu\WarungKu\bin\Debug\WarungKu.exe
+C:\Users\PC Lab 27 - 15\Documents\Laksono - Visual Studio\WarungKu\WarungKu\bin\Debug\WarungKu.pdb
+C:\Users\PC Lab 27 - 15\Documents\Laksono - Visual Studio\WarungKu\WarungKu\obj\Debug\WarungKu.csprojAssemblyReference.cache
+C:\Users\PC Lab 27 - 15\Documents\Laksono - Visual Studio\WarungKu\WarungKu\obj\Debug\WarungKu.FormLogin.resources
+C:\Users\PC Lab 27 - 15\Documents\Laksono - Visual Studio\WarungKu\WarungKu\obj\Debug\WarungKu.Properties.Resources.resources
+C:\Users\PC Lab 27 - 15\Documents\Laksono - Visual Studio\WarungKu\WarungKu\obj\Debug\WarungKu.csproj.GenerateResource.cache
+C:\Users\PC Lab 27 - 15\Documents\Laksono - Visual Studio\WarungKu\WarungKu\obj\Debug\WarungKu.exe
+C:\Users\PC Lab 27 - 15\Documents\Laksono - Visual Studio\WarungKu\WarungKu\obj\Debug\WarungKu.pdb
+C:\Users\PC Lab27-14\source\repos\WarungKu\WarungKu\bin\Debug\WarungKu.exe.config
+C:\Users\PC Lab27-14\source\repos\WarungKu\WarungKu\bin\Debug\WarungKu.exe
+C:\Users\PC Lab27-14\source\repos\WarungKu\WarungKu\bin\Debug\WarungKu.pdb
+C:\Users\PC Lab27-14\source\repos\WarungKu\WarungKu\obj\Debug\WarungKu.csprojAssemblyReference.cache
+C:\Users\PC Lab27-14\source\repos\WarungKu\WarungKu\obj\Debug\WarungKu.FormKategori.resources
+C:\Users\PC Lab27-14\source\repos\WarungKu\WarungKu\obj\Debug\WarungKu.FormLogin.resources
+C:\Users\PC Lab27-14\source\repos\WarungKu\WarungKu\obj\Debug\WarungKu.Properties.Resources.resources
+C:\Users\PC Lab27-14\source\repos\WarungKu\WarungKu\obj\Debug\WarungKu.csproj.GenerateResource.cache
+C:\Users\PC Lab27-14\source\repos\WarungKu\WarungKu\obj\Debug\WarungKu.exe
+C:\Users\PC Lab27-14\source\repos\WarungKu\WarungKu\obj\Debug\WarungKu.pdb
+C:\Users\PC Lab27-14\source\repos\WarungKu\WarungKu\obj\Debug\WarungKu.FormBarang.resources
+C:\Users\PC Lab27-14\source\repos\WarungKu\WarungKu\obj\Debug\WarungKu.FormKasir.resources
+C:\Users\PC Lab27-14\source\repos\WarungKu\WarungKu\obj\Debug\WarungKu.FormLoading.resources
+C:\Users\PC Lab27-14\source\repos\WarungKu\WarungKu\obj\Debug\WarungKu.FormPenjualan.resources
+C:\Users\PC Lab27-14\source\repos\WarungKu\WarungKu\obj\Debug\WarungKu.csproj.ResolveComReference.cache
+C:\Users\Annisa\Downloads\Annisa Maulana Sabilla\WarungKu\WarungKu\bin\Debug\WarungKu.exe.config
+C:\Users\Annisa\Downloads\Annisa Maulana Sabilla\WarungKu\WarungKu\obj\Debug\WarungKu.csproj.ResolveComReference.cache
+C:\Users\Annisa\Downloads\Annisa Maulana Sabilla\WarungKu\WarungKu\obj\Debug\WarungKu.exe
+C:\Users\Annisa\Downloads\Annisa Maulana Sabilla\WarungKu\WarungKu\obj\Debug\WarungKu.pdb
+C:\Users\Annisa\Downloads\Annisa Maulana Sabilla\WarungKu\WarungKu\bin\Debug\WarungKu.exe
+C:\Users\Annisa\Downloads\Annisa Maulana Sabilla\WarungKu\WarungKu\bin\Debug\WarungKu.pdb
+C:\Users\Annisa\Downloads\Annisa Maulana Sabilla\WarungKu\WarungKu\bin\Debug\mscorlib.dll
+C:\Users\Annisa\Downloads\Annisa Maulana Sabilla\WarungKu\WarungKu\bin\Debug\normidna.nlp
+C:\Users\Annisa\Downloads\Annisa Maulana Sabilla\WarungKu\WarungKu\bin\Debug\normnfc.nlp
+C:\Users\Annisa\Downloads\Annisa Maulana Sabilla\WarungKu\WarungKu\bin\Debug\normnfd.nlp
+C:\Users\Annisa\Downloads\Annisa Maulana Sabilla\WarungKu\WarungKu\bin\Debug\normnfkc.nlp
+C:\Users\Annisa\Downloads\Annisa Maulana Sabilla\WarungKu\WarungKu\bin\Debug\normnfkd.nlp
+C:\Users\Annisa\Downloads\Annisa Maulana Sabilla\WarungKu\WarungKu\obj\Debug\WarungKu.csprojResolveAssemblyReference.cache
+C:\Users\Annisa\Downloads\Annisa Maulana Sabilla\WarungKu\WarungKu\obj\Debug\WarungKu.FormBarang.resources
+C:\Users\Annisa\Downloads\Annisa Maulana Sabilla\WarungKu\WarungKu\obj\Debug\WarungKu.FormKasir.resources
+C:\Users\Annisa\Downloads\Annisa Maulana Sabilla\WarungKu\WarungKu\obj\Debug\WarungKu.FormKategori.resources
+C:\Users\Annisa\Downloads\Annisa Maulana Sabilla\WarungKu\WarungKu\obj\Debug\WarungKu.FormLoading.resources
+C:\Users\Annisa\Downloads\Annisa Maulana Sabilla\WarungKu\WarungKu\obj\Debug\WarungKu.FormLogin.resources
+C:\Users\Annisa\Downloads\Annisa Maulana Sabilla\WarungKu\WarungKu\obj\Debug\WarungKu.FormPenjualan.resources
+C:\Users\Annisa\Downloads\Annisa Maulana Sabilla\WarungKu\WarungKu\obj\Debug\WarungKu.Properties.Resources.resources
+C:\Users\Annisa\Downloads\Annisa Maulana Sabilla\WarungKu\WarungKu\obj\Debug\WarungKu.csproj.GenerateResource.Cache
+C:\Users\Annisa\OneDrive\Documents\INPINIX LEPT9OP\Annisa Maulana Sabilla\WarungKu\WarungKu\bin\Debug\WarungKu.exe.config
+C:\Users\Annisa\OneDrive\Documents\INPINIX LEPT9OP\Annisa Maulana Sabilla\WarungKu\WarungKu\obj\Debug\WarungKu.csproj.ResolveComReference.cache
+C:\Users\Annisa\OneDrive\Documents\INPINIX LEPT9OP\Annisa Maulana Sabilla\WarungKu\WarungKu\obj\Debug\WarungKu.exe
+C:\Users\Annisa\OneDrive\Documents\INPINIX LEPT9OP\Annisa Maulana Sabilla\WarungKu\WarungKu\obj\Debug\WarungKu.pdb
+C:\Users\Annisa\OneDrive\Documents\INPINIX LEPT9OP\Annisa Maulana Sabilla\WarungKu\WarungKu\bin\Debug\WarungKu.exe
+C:\Users\Annisa\OneDrive\Documents\INPINIX LEPT9OP\Annisa Maulana Sabilla\WarungKu\WarungKu\bin\Debug\WarungKu.pdb
+C:\Users\Annisa\OneDrive\Documents\INPINIX LEPT9OP\Annisa Maulana Sabilla\WarungKu\WarungKu\bin\Debug\mscorlib.dll
+C:\Users\Annisa\OneDrive\Documents\INPINIX LEPT9OP\Annisa Maulana Sabilla\WarungKu\WarungKu\bin\Debug\normidna.nlp
+C:\Users\Annisa\OneDrive\Documents\INPINIX LEPT9OP\Annisa Maulana Sabilla\WarungKu\WarungKu\bin\Debug\normnfc.nlp
+C:\Users\Annisa\OneDrive\Documents\INPINIX LEPT9OP\Annisa Maulana Sabilla\WarungKu\WarungKu\bin\Debug\normnfd.nlp
+C:\Users\Annisa\OneDrive\Documents\INPINIX LEPT9OP\Annisa Maulana Sabilla\WarungKu\WarungKu\bin\Debug\normnfkc.nlp
+C:\Users\Annisa\OneDrive\Documents\INPINIX LEPT9OP\Annisa Maulana Sabilla\WarungKu\WarungKu\bin\Debug\normnfkd.nlp
+C:\Users\Annisa\OneDrive\Documents\INPINIX LEPT9OP\Annisa Maulana Sabilla\WarungKu\WarungKu\obj\Debug\WarungKu.csprojResolveAssemblyReference.cache
+C:\Users\Annisa\OneDrive\Documents\INPINIX LEPT9OP\Annisa Maulana Sabilla\WarungKu\WarungKu\obj\Debug\WarungKu.FormBarang.resources
+C:\Users\Annisa\OneDrive\Documents\INPINIX LEPT9OP\Annisa Maulana Sabilla\WarungKu\WarungKu\obj\Debug\WarungKu.FormKasir.resources
+C:\Users\Annisa\OneDrive\Documents\INPINIX LEPT9OP\Annisa Maulana Sabilla\WarungKu\WarungKu\obj\Debug\WarungKu.FormKategori.resources
+C:\Users\Annisa\OneDrive\Documents\INPINIX LEPT9OP\Annisa Maulana Sabilla\WarungKu\WarungKu\obj\Debug\WarungKu.FormLoading.resources
+C:\Users\Annisa\OneDrive\Documents\INPINIX LEPT9OP\Annisa Maulana Sabilla\WarungKu\WarungKu\obj\Debug\WarungKu.FormLogin.resources
+C:\Users\Annisa\OneDrive\Documents\INPINIX LEPT9OP\Annisa Maulana Sabilla\WarungKu\WarungKu\obj\Debug\WarungKu.FormPenjualan.resources
+C:\Users\Annisa\OneDrive\Documents\INPINIX LEPT9OP\Annisa Maulana Sabilla\WarungKu\WarungKu\obj\Debug\WarungKu.Properties.Resources.resources
+C:\Users\Annisa\OneDrive\Documents\INPINIX LEPT9OP\Annisa Maulana Sabilla\WarungKu\WarungKu\obj\Debug\WarungKu.csproj.GenerateResource.Cache
+C:\Users\Annisa\Documents\Visual Studio 2012\Annisa Maulana Sabilla\WarungKu\WarungKu\bin\Debug\WarungKu.exe.config
+C:\Users\Annisa\Documents\Visual Studio 2012\Annisa Maulana Sabilla\WarungKu\WarungKu\obj\Debug\WarungKu.csproj.ResolveComReference.cache
+C:\Users\Annisa\Documents\Visual Studio 2012\Annisa Maulana Sabilla\WarungKu\WarungKu\obj\Debug\WarungKu.exe
+C:\Users\Annisa\Documents\Visual Studio 2012\Annisa Maulana Sabilla\WarungKu\WarungKu\obj\Debug\WarungKu.pdb
+C:\Users\Annisa\Documents\Visual Studio 2012\Annisa Maulana Sabilla\WarungKu\WarungKu\bin\Debug\WarungKu.exe
+C:\Users\Annisa\Documents\Visual Studio 2012\Annisa Maulana Sabilla\WarungKu\WarungKu\bin\Debug\WarungKu.pdb
+C:\Users\Annisa\Documents\Visual Studio 2012\Annisa Maulana Sabilla\WarungKu\WarungKu\bin\Debug\mscorlib.dll
+C:\Users\Annisa\Documents\Visual Studio 2012\Annisa Maulana Sabilla\WarungKu\WarungKu\bin\Debug\normidna.nlp
+C:\Users\Annisa\Documents\Visual Studio 2012\Annisa Maulana Sabilla\WarungKu\WarungKu\bin\Debug\normnfc.nlp
+C:\Users\Annisa\Documents\Visual Studio 2012\Annisa Maulana Sabilla\WarungKu\WarungKu\bin\Debug\normnfd.nlp
+C:\Users\Annisa\Documents\Visual Studio 2012\Annisa Maulana Sabilla\WarungKu\WarungKu\bin\Debug\normnfkc.nlp
+C:\Users\Annisa\Documents\Visual Studio 2012\Annisa Maulana Sabilla\WarungKu\WarungKu\bin\Debug\normnfkd.nlp
+C:\Users\Annisa\Documents\Visual Studio 2012\Annisa Maulana Sabilla\WarungKu\WarungKu\obj\Debug\WarungKu.csprojResolveAssemblyReference.cache
+C:\Users\Annisa\Documents\Visual Studio 2012\Annisa Maulana Sabilla\WarungKu\WarungKu\obj\Debug\WarungKu.FormBarang.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\Annisa Maulana Sabilla\WarungKu\WarungKu\obj\Debug\WarungKu.FormKasir.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\Annisa Maulana Sabilla\WarungKu\WarungKu\obj\Debug\WarungKu.FormKategori.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\Annisa Maulana Sabilla\WarungKu\WarungKu\obj\Debug\WarungKu.FormLoading.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\Annisa Maulana Sabilla\WarungKu\WarungKu\obj\Debug\WarungKu.FormLogin.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\Annisa Maulana Sabilla\WarungKu\WarungKu\obj\Debug\WarungKu.FormPenjualan.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\Annisa Maulana Sabilla\WarungKu\WarungKu\obj\Debug\WarungKu.Properties.Resources.resources
+C:\Users\Annisa\Documents\Visual Studio 2012\Annisa Maulana Sabilla\WarungKu\WarungKu\obj\Debug\WarungKu.csproj.GenerateResource.Cache
